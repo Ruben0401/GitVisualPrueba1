@@ -15,6 +15,7 @@ namespace PruebaVisualGit
         public FormPrueba()
         {
             InitializeComponent();
+
         }
     }
 }
